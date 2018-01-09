@@ -7,6 +7,8 @@ automatic captchas
 4. start macro
 5. dont move your mouse
 
+note: if the captcha takes to long just wait the macro will it do in the 2nd run!
+
 #changelogs
 
 0.1
