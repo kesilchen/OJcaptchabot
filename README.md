@@ -8,6 +8,7 @@ automatic captchas
 5. dont move your mouse
 
 note: if the captcha takes to long just wait the macro will it do in the 2nd run!
+note2: deactivate the notification for "MouseRecorder" because it will spamm you -_-
 
 #changelogs
 
