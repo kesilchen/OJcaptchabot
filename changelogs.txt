@@ -1,8 +1,0 @@
-0.1
-- automaticly doing captchas
-
-0.2
-- fixed bug that it didnt click on "Free KK" button
-
-0.3
-- if human verification want you to pick pictures it automaticly stop
